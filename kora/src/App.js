@@ -1,8 +1,7 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import React, { useState, useRef } from 'react';
 import Landing from "./pages/Landing";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import Error from "./pages/Error";
+import Home from "./pages/Home";
 
 
 function App() {

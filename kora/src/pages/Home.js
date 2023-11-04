@@ -19,7 +19,7 @@ const Home = () =>
             <section class="q-panel">
               <h2>Queue</h2>
             </section>
-          </section><br>
+          </section>
 
           <section class="main-panel">
             <section class="thumbnail">
